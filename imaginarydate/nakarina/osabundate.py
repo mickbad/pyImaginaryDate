@@ -51,5 +51,5 @@ class OsabunDate(ImaginaryTestingDate):
         string representation
         :return: str
         """
-        return f"{self}"
+        return f"An {self.year:02d} Mois {self.month} Jour {self.day}"
 
