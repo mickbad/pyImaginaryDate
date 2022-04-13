@@ -15,10 +15,10 @@ tel que ``virtualenv`` ou ``pipenv``.
 $ pip install imaginarydate
 ```
 
-Pour contribuer avec le code, clonez le dépôt et installez le mode développement
+Pour contribuer avec le code, clonez le dépôt et installez le mode développement : [https://github.com/mickbad/pyImaginaryDate]()
 
 ```bash
-$ git clone https://github.com/mickbad/pyImaginaryDate.git
+$ git clone git@github.com:mickbad/pyImaginaryDate.git
 $ cd pyImaginaryDate
 $ pipenv install
 $ pipenv shell
